@@ -1,0 +1,3 @@
+this is a new application
+it is a reminder for groups 
+this overcomes problems experienced in conventional messengers and helps us keep track of the people in the group
