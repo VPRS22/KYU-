@@ -1,3 +1,4 @@
 this is a new application
 it is a reminder for groups 
 this overcomes problems experienced in conventional messengers and helps us keep track of the people in the group
+This application also uses speech to text conversion so that the application is reachable to the user 
